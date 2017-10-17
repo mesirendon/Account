@@ -2,6 +2,11 @@
 
 > A simple decentralized application with VueJS using Solidity
 
+## Change log
+
+1. mar oct 17 15:14:44 COT 2017. Adding the `Account` contract with its test
+2. mar oct 17 15:22:31 COT 2017. Setting the JS framework (VueJS) up.
+
 ## Build Setup
 
 ``` bash
