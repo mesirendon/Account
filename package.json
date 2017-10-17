@@ -1,0 +1,23 @@
+{
+  "name": "account",
+  "version": "1.0.0",
+  "description": "A simple decentralized application with VueJS using Solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mesirendon/Account.git"
+  },
+  "author": "Mesi Rendon <amrendonsa@unal.edu.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mesirendon/Account/issues"
+  },
+  "homepage": "https://github.com/mesirendon/Account#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1"
+  }
+}
