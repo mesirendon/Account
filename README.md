@@ -4,8 +4,9 @@
 
 ## Change log
 
-1. mar oct 17 15:14:44 COT 2017. Adding the `Account` contract with its test
+1. mar oct 17 15:14:44 COT 2017. Adding the `Account` contract with its test.
 2. mar oct 17 15:22:31 COT 2017. Setting the JS framework (VueJS) up.
+3. mar oct 17 15:38:57 COT 2017. Adding dependencies for VueJS to read a blockchain and contracts.
 
 ## Build Setup
 
